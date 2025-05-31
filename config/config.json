@@ -1,0 +1,13 @@
+{
+    "enabled": false,
+    "guild": "",
+    "welcomechannel": "",
+    "embed": false,
+    "embedcolor": "#7289DA",
+    "welcomemessage": "Hej <<@user>>! Välkommen till <<@servername>>! Du är våran **<<@membercount>>:e** medlem!",
+    "Joinroles": [
+        ""
+    ]
+
+  }
+  
