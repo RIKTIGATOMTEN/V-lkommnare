@@ -1,0 +1,9 @@
+framework: Xenshop
+name: Välkommnare
+version: 1.4
+author: RiktigaTomten
+description: Auto välkommnare som välkommnar dina medlemmar i din discord server
+
+mainfile: ./script/main.js
+mainconfig: ./config/config.json
+type: addon
